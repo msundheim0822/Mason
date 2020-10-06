@@ -6,13 +6,16 @@
 
 /**
  *
- * @author Mason Sundheim
- * msundheim0822@gmail.com
- * 10/5/20
- * purpose: My first Hello World program in IDE
+ * @author Mason
  */
-public class Hello {
+public class Adder {
+    
     public static void main(String[] args) {
-        System.out.println("Hello, Mason!");
+        
+        int toast = 1;
+        int brisk = 2;
+        int slothRibs = 3;
+        int luke = toast + brisk + slothRibs;
+        System.out.println(luke);
     }
 }
