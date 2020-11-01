@@ -1,0 +1,117 @@
+2020-10-29T11:30:42.070413800 : elytronrandomly selected.
+2020-10-29T11:30:52.811556400 : WIN
+2020-10-29T11:31:49.326076500 : representrandomly selected.
+2020-10-29T11:31:56.345561400 : WIN
+2020-10-29T11:34:19.188433100 : aggressively randomly selected.
+2020-10-29T11:34:57.553243100 : squashy randomly selected.
+2020-10-29T11:35:36.212198100 : term randomly selected.
+2020-10-29T11:35:42.125731900 : WIN
+2020-10-29T11:36:05.957331800 : saxifragaceae randomly selected.
+2020-10-29T11:36:17.729721100 : LOSE
+2020-10-29T11:38:02.845254600 : historiographer randomly selected.
+2020-10-29T11:38:16.817481400 : LOSE
+2020-10-29T11:38:54.973725400 : sun-god randomly selected.
+2020-10-29T11:39:14.859842 : LOSE
+2020-10-29T11:39:32.568073100 : nondriver randomly selected.
+2020-10-29T11:39:49.843878700 : LOSE
+2020-10-29T11:48:57.800087600 : stainless randomly selected.
+2020-10-29T11:49:17.403412400 : LOSE
+2020-10-29T14:31:49.017240200 : laudatur randomly selected.
+2020-10-29T14:32:23.569928700 : dabchick randomly selected.
+2020-10-29T14:35:44.048759900 : discompose randomly selected.
+2020-10-29T14:36:49.556875800 : tumbleweed randomly selected.
+2020-10-29T14:47:04.286706100 : bat-man randomly selected.
+2020-10-29T14:47:04.301664800 : bat-man randomly selected.
+2020-10-29T14:47:04.303659600 : WIN
+2020-10-29T14:47:17.475798300 : bat-man randomly selected.
+2020-10-29T14:47:17.485743300 : bat-man randomly selected.
+2020-10-29T14:47:17.485743300 : WIN
+2020-10-29T14:47:26.751696900 : bat-man randomly selected.
+2020-10-29T14:47:26.772641500 : bat-man randomly selected.
+2020-10-29T14:47:26.774635300 : WIN
+2020-10-29T14:47:41.908530300 : bat-man randomly selected.
+2020-10-29T14:47:41.924489700 : WIN
+2020-10-29T14:47:41.927480100 : bat-man randomly selected.
+2020-10-29T14:53:10.880663400 : bat-man randomly selected.
+2020-10-29T14:53:10.896621200 : bat-man randomly selected.
+2020-10-29T14:53:10.896621200 : WIN
+2020-10-29T14:53:10.898619800 : bat-man randomly selected.
+2020-10-29T14:53:18.581049300 : bat-man randomly selected.
+2020-10-29T14:53:18.599039700 : bat-man randomly selected.
+2020-10-29T14:53:18.602033800 : bat-man randomly selected.
+2020-10-29T14:53:18.602033800 : WIN
+2020-10-29T14:53:58.795749500 : bat-man randomly selected.
+2020-10-29T14:53:58.807717400 : bat-man randomly selected.
+2020-10-29T14:53:58.808715300 : bat-man randomly selected.
+2020-10-29T14:53:58.809712200 : WIN
+2020-10-29T14:53:58.810707800 : bat-man randomly selected.
+2020-10-29T14:54:05.612629500 : bat-man randomly selected.
+2020-10-29T14:54:05.629583300 : bat-man randomly selected.
+2020-10-29T14:54:05.631578100 : bat-man randomly selected.
+2020-10-29T14:54:05.631578100 : WIN
+2020-10-29T14:54:05.636564800 : bat-man randomly selected.
+2020-10-29T14:54:48.263590300 : banff randomly selected.
+2020-10-29T14:54:53.436598700 : bat-man randomly selected.
+2020-10-29T14:54:53.447570700 : bat-man randomly selected.
+2020-10-29T14:54:53.450561500 : bat-man randomly selected.
+2020-10-29T14:54:53.452557200 : bat-man randomly selected.
+2020-10-29T14:54:53.454597800 : bat-man randomly selected.
+2020-10-29T14:54:53.454597800 : WIN
+2020-10-29T14:55:01.365122700 : bat-man randomly selected.
+2020-10-29T14:55:01.381081600 : bat-man randomly selected.
+2020-10-29T14:55:01.383078200 : bat-man randomly selected.
+2020-10-29T14:55:01.388068 : bat-man randomly selected.
+2020-10-29T14:55:01.390058200 : WIN
+2020-10-29T14:55:01.392050400 : bat-man randomly selected.
+2020-10-29T14:55:22.982880200 : bat-man randomly selected.
+2020-10-29T14:55:22.998838600 : bat-man randomly selected.
+2020-10-29T14:55:22.999833600 : bat-man randomly selected.
+2020-10-29T14:55:23.000830200 : bat-man randomly selected.
+2020-10-29T14:55:23.002825200 : bat-man randomly selected.
+2020-10-29T14:55:23.002825200 : WIN
+2020-10-29T14:55:23.004821800 : bat-man randomly selected.
+2020-10-29T14:55:28.819771700 : bat-man randomly selected.
+2020-10-29T14:55:28.838722 : bat-man randomly selected.
+2020-10-29T14:55:28.839718400 : bat-man randomly selected.
+2020-10-29T14:55:28.840723300 : bat-man randomly selected.
+2020-10-29T14:55:28.841713300 : bat-man randomly selected.
+2020-10-29T14:55:28.843707 : bat-man randomly selected.
+2020-10-29T14:55:28.843707 : WIN
+2020-10-29T14:55:59.241463800 : bat-man randomly selected.
+2020-10-29T14:55:59.252421300 : bat-man randomly selected.
+2020-10-29T14:55:59.253447600 : bat-man randomly selected.
+2020-10-29T14:55:59.253447600 : bat-man randomly selected.
+2020-10-29T14:55:59.254414800 : bat-man randomly selected.
+2020-10-29T14:55:59.255412800 : bat-man randomly selected.
+2020-10-29T14:55:59.256410200 : bat-man randomly selected.
+2020-10-29T14:55:59.256410200 : bat-man randomly selected.
+2020-10-29T14:55:59.257406700 : WIN
+2020-10-29T14:56:04.970839200 : bat-man randomly selected.
+2020-10-29T14:56:04.985768200 : bat-man randomly selected.
+2020-10-29T14:56:04.986765400 : bat-man randomly selected.
+2020-10-29T14:56:04.987761900 : bat-man randomly selected.
+2020-10-29T14:56:04.989756300 : bat-man randomly selected.
+2020-10-29T14:56:04.990754600 : bat-man randomly selected.
+2020-10-29T14:56:04.990754600 : WIN
+2020-10-29T14:56:04.993747100 : bat-man randomly selected.
+2020-10-29T14:56:04.995741400 : bat-man randomly selected.
+2020-10-29T15:03:20.487030300 : bat-man randomly selected.
+2020-10-29T15:03:20.500994800 : bat-man randomly selected.
+2020-10-29T15:03:20.502989100 : bat-man randomly selected.
+2020-10-29T15:03:20.504012 : bat-man randomly selected.
+2020-10-29T15:03:20.504985 : bat-man randomly selected.
+2020-10-29T15:03:20.506978600 : bat-man randomly selected.
+2020-10-29T15:03:20.508973700 : bat-man randomly selected.
+2020-10-29T15:03:20.510970500 : WIN
+2020-10-29T15:03:20.512000500 : bat-man randomly selected.
+2020-10-29T15:03:26.919313200 : bat-man randomly selected.
+2020-10-29T15:03:26.930283100 : bat-man randomly selected.
+2020-10-29T15:03:26.931284700 : bat-man randomly selected.
+2020-10-29T15:03:26.932314300 : bat-man randomly selected.
+2020-10-29T15:03:26.934270900 : bat-man randomly selected.
+2020-10-29T15:03:26.934270900 : WIN
+2020-10-29T15:03:26.936265 : bat-man randomly selected.
+2020-10-29T15:03:26.937278900 : bat-man randomly selected.
+2020-10-29T15:03:26.938262100 : bat-man randomly selected.
+2020-10-29T15:03:31.697566800 : regina randomly selected.
+2020-10-29T15:08:08.672607200 : WIN

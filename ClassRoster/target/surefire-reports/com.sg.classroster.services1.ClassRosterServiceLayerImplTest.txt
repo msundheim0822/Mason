@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.sg.classroster.services1.ClassRosterServiceLayerImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testRemoveStudent()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testRemoveStudent(ClassRosterServiceLayerImplTest.java:94)
+
+com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testGetStudent()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testGetStudent(ClassRosterServiceLayerImplTest.java:79)
+
+com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testGetAllStudents()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testGetAllStudents(ClassRosterServiceLayerImplTest.java:64)
+
+com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testCreateStudent()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.sg.classroster.services1.ClassRosterServiceLayerImplTest.testCreateStudent(ClassRosterServiceLayerImplTest.java:51)
+

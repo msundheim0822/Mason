@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.sg.vm.dao.VMDaoFileImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.036 sec <<< FAILURE!
+com.sg.vm.dao.VMDaoFileImplTest.testReduceAmount()  Time elapsed: 0.034 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <14> but was: <194>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:145)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:510)
+	at com.sg.vm.dao.VMDaoFileImplTest.testReduceAmount(VMDaoFileImplTest.java:73)
+

@@ -1,0 +1,3 @@
+com\sg\hangman\dto\Word.class
+com\sg\hangman\ui\UserIO.class
+com\sg\hangman\ui\UserIOConsoleImpl.class

@@ -1,0 +1,8 @@
+com\sg\itemmanager\controller\ItemManagerController.class
+com\sg\itemmanager\dto\Item.class
+com\sg\itemmanager\ui\UserIO.class
+com\sg\itemmanager\App.class
+com\sg\itemmanager\ui\UserIOConsoleImpl.class
+com\sg\itemmanager\dao\ItemManagerDaoFileImpl.class
+com\sg\itemmanager\dao\ItemManagerDao.class
+com\sg\itemmanager\ui\ItemManagerView.class

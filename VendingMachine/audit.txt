@@ -1,0 +1,25 @@
+2020-10-25T20:54:55.391718600 : 1 Pepsi for $1.50, change is $0.25, remaining amount of Pepsi is 4
+2020-10-25T23:19:10.776332700 : 1 Apple Juice for $4.00, change is $2.50 remaining amount of Apple Juice is 13
+2020-10-25T23:26:58.087417200 : 1 Brisk for $4.00, change is $2.00 remaining amount of Brisk is 3
+2020-10-25T23:27:19.607888800 : 1 Brisk for $3.00, change is $1.00 remaining amount of Brisk is 3
+2020-10-26T00:08:39.613197 : 1 Coke for $3.00, change is $2.00 remaining amount of Coke is 5
+2020-10-26T00:08:54.791528800 : 1 Coke for $4.00, change is $3.00 remaining amount of Coke is 5
+2020-10-26T00:11:49.655483 : 1 Apple Juice for $4.00, change is $2.50 remaining amount of Apple Juice is 13
+2020-10-26T00:14:53.754636600 : 1 Coke for $4.00, change is $3.00 remaining amount of Coke is 5
+2020-10-26T00:16:40.905221 : 1 Apple Juice for $3.00, change is $1.50 remaining amount of Apple Juice is 12
+2020-10-26T00:16:48.091456400 : 1 Brisk for $4.00, change is $2.00 remaining amount of Brisk is 19
+2020-10-26T00:16:57.652302900 : 1 Pepsi for $5.00, change is $3.75 remaining amount of Pepsi is 3
+2020-10-26T00:17:59.971105500 : 1 Sprite for $4.00, change is $2.50 remaining amount of Sprite is 9
+2020-10-26T00:18:15.745423800 : 1 Coke for $5.00, change is $4.00 remaining amount of Coke is 4
+2020-10-26T00:19:58.474014600 : 1 Brisk for $5.00, change is $3.00 remaining amount of Brisk is 18
+2020-10-26T00:21:13.125641500 : 1 Coke for $1.00, change is $0.00 remaining amount of Coke is 3
+2020-10-26T09:53:57.508104 : 1 Coke for $1.00, change is $0.00 remaining amount of Coke is 3
+2020-10-26T09:54:10.876366800 : 1 Sprite for $3.00, change is $1.50 remaining amount of Sprite is 8
+2020-10-26T09:54:29.761902700 : 1 Sprite for $1.50, change is $0.00 remaining amount of Sprite is 7
+2020-10-26T10:41:04.252098400 : 1 Coke for $1.00, change is $0.00 remaining amount of Coke is 2
+2020-10-26T12:37:50.402127500 : 1 Coke for $5.00, change is $4.00 remaining amount of Coke is 1
+2020-10-26T12:38:13.583590400 : 1 Sprite for $1.50, change is $0.00 remaining amount of Sprite is 6
+2020-10-30T12:08:20.445303200 : 1 Apple Juice for $3.00, change is $1.50 remaining amount of Apple Juice is 12
+2020-10-30T16:17:51.782310500 : 1 Pepsi for $3.00, change is $1.75 remaining amount of Pepsi is 3
+2020-10-30T17:40:22.319827600 : 1 Sprite for $3.00, change is $1.50 remaining amount of Sprite is 5
+2020-10-30T17:42:40.641087800 : 1 Brisk for $4.00, change is $2.00 remaining amount of Brisk is 200

@@ -1,0 +1,82 @@
+-------------------------------------------------------------------------------
+Test set: com.sg.classroster.services.ClassRosterServiceLayerImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.336 sec <<< FAILURE!
+com.sg.classroster.services.ClassRosterServiceLayerImplTest.testCreateValidStudent()  Time elapsed: 0.29 sec  <<< FAILURE!
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serviceLayer' defined in class path resource [applicationContext.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sg.classroster.service.ClassRosterServiceLayerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1110)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1054)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:512)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:754)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.sg.classroster.services.ClassRosterServiceLayerImplTest.testCreateValidStudent(ClassRosterServiceLayerImplTest.java:60)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sg.classroster.service.ClassRosterServiceLayerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:85)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1102)
+	... 31 more
+Caused by: java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at java.base/java.lang.Class.getConstructor0(Class.java:3427)
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2631)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:80)
+	... 32 more
+
+com.sg.classroster.services.ClassRosterServiceLayerImplTest.testGetStudent()  Time elapsed: 0.023 sec  <<< FAILURE!
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serviceLayer' defined in class path resource [applicationContext.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sg.classroster.service.ClassRosterServiceLayerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1110)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1054)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:512)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:754)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.sg.classroster.services.ClassRosterServiceLayerImplTest.testGetStudent(ClassRosterServiceLayerImplTest.java:80)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sg.classroster.service.ClassRosterServiceLayerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:85)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1102)
+	... 31 more
+Caused by: java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at java.base/java.lang.Class.getConstructor0(Class.java:3427)
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2631)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:80)
+	... 32 more
+
+com.sg.classroster.services.ClassRosterServiceLayerImplTest.testRemoveStudent()  Time elapsed: 0.02 sec  <<< FAILURE!
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serviceLayer' defined in class path resource [applicationContext.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sg.classroster.service.ClassRosterServiceLayerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1110)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1054)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:512)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:482)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:754)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.sg.classroster.services.ClassRosterServiceLayerImplTest.testRemoveStudent(ClassRosterServiceLayerImplTest.java:101)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.sg.classroster.service.ClassRosterServiceLayerImpl]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:85)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1102)
+	... 31 more
+Caused by: java.lang.NoSuchMethodException: com.sg.classroster.service.ClassRosterServiceLayerImpl.<init>()
+	at java.base/java.lang.Class.getConstructor0(Class.java:3427)
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2631)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:80)
+	... 32 more
+

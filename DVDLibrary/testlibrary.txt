@@ -1,0 +1,3 @@
+Spider-Man::2002::Sam Raimi::Sony::PG-13::It's good!::
+DBZ Battle of Gods::March 21, 2015::Akira Toriyama::Toei Animation::PG-13::It's great!::
+Toy Story 3::November 22, 1995::John Lasseter::Pixar::G::It's great!::
